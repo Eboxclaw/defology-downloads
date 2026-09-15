@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "sourceRevision": "49116c647e8cf6f9a7d2e781a828b0567a220f6a",
+  "dirty": false,
+  "packagedAt": "2026-09-15T15:23:23.788521+00:00",
+  "version": "1.0.0",
+  "sourceFilesSha256": "35626ce1c8867b9295a504170d6075be0099b516dc1363b39f19b46a18b2b7c3",
+  "artifacts": [
+    {
+      "file": "defology-android.apk",
+      "platform": "android",
+      "architecture": "universal",
+      "sizeBytes": 55870352,
+      "sha256": "f3e84d2feb278242ee105b1932763de0c1a384871fb96c9cdf1901b9d37c7c39",
+      "url": "https://github.com/Eboxclaw/defology-downloads/releases/download/testnet-preview/defology-android.apk"
+    },
+    {
+      "file": "defology-macos.zip",
+      "platform": "macos",
+      "architecture": "arm64",
+      "sizeBytes": 102751810,
+      "sha256": "100acebc90c671ce21708bb6671e18a0061e66301ebbb0bee2ab8acc5308f6d4",
+      "url": "https://github.com/Eboxclaw/defology-downloads/releases/download/testnet-preview/defology-macos.zip"
+    }
+  ],
+  "distribution": "local-only",
+  "signing": "Android debug signature; macOS unsigned developer bundle",
+  "releaseId": "testnet-preview",
+  "builtAt": "2026-09-15T15:22:57.565550Z"
+}
